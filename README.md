@@ -1,0 +1,1 @@
+just replace addresses in file and build file
