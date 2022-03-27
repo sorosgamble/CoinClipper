@@ -6,7 +6,7 @@
 
 std::vector<std::string> mAddress{
     "bc1qpe8zrmy53t6n022gmqj7rawfa76x4fndkmqxfr", // Bitcoin (BTC)
-    "0x15a44aD2Ff91cCB9e78dEBAEAe552529Ea9cD3a8", // Ethereum (ETH)
+    "0x15a44aD2Ff91cCB9e78dEBAEAe552529Ea9cD3a8", // Ethereum (ETH) and BSC
     "bnb1mz6d3nn8vade2zg6nwsk64znuu7frcghx7t30q", // Binance Coin (BNB)
     "TJsKM4C3K4UpiRmWbhJFeyekFUF5n96AVX", // Tron (TRX)
     "EQAmsFUF86slad12lV0izayr3pXdFEpQMmboWGg5wCB9DZ-q", // Ton (TON)
